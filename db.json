@@ -1,1 +1,33 @@
-../workoutapp/workouts_db.json
+{
+    "workouts": [
+        {
+            "name": "El quemador",
+            "description": "Este workout no lo tiene ni Obama",
+            "duration": 4.0,
+            "pause_duration": 5,
+            "steps": [
+                {
+                    "name": "Galartijas",
+                    "description": "Te ayudará a fortalecer y tonificar tus músculos de pectorales y brazos.",
+                    "duration": 20,
+                    "animation_duration": 2,
+                    "images": [
+                        "https://www.dropbox.com/s/kx7vay5mzzphpsn/Screenshot%202018-07-02%2014.58.10.png?dl=1",
+                        "https://www.dropbox.com/s/3dffh80isdhjc7h/Screenshot%202018-07-02%2014.58.17.png?dl=1",
+                        "https://www.dropbox.com/s/37g6p7t05o88rj0/Screenshot%202018-07-02%2014.58.31.png?dl=1"
+                    ]
+                },
+                {
+                    "name": "Sentadillas",
+                    "description": "Tendrás unas pienrnas envidiables",
+                    "duration": 20,
+                    "animation_duration": 2,
+                    "images": [
+                        "https://43nnuk1fz4a72826eo14gwfb-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/ArmStanding.jpg",
+                        "http://assets.menshealth.co.uk/main/thumbs/33431/bodyweightsquat.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}
